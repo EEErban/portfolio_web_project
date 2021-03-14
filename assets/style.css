@@ -88,14 +88,18 @@ header {
     color: white;
     letter-spacing: 3px;
     margin-left: 10px;
+    text-decoration: none;
 }
 
 .projects h3 {
     color: rgb(255, 138, 210);
 }
 
+/* project cards */
+
 .card {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
