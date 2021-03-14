@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website, this will be my personal space to showcase work and projects 
 
-## Descriptiom
+## Description
 
 
 ## LINK
