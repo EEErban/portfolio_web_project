@@ -70,11 +70,21 @@ header {
     transition: 0.5s ease-in-out;
 }
 
-/* about styling & content */
+/* about styling */
 
 #about {
     font-family: Helvetica, sans-serif ;
-    font-size: 10px;
+    font-size: 35px;
+    color: white;
+    letter-spacing: 3px;
+    margin-left: 10px;
+}
+
+/* projects styling */
+
+#projects {
+    font-family: Helvetica, sans-serif ;
+    font-size: 35px;
     color: white;
     letter-spacing: 3px;
     margin-left: 10px;
