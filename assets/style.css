@@ -88,7 +88,6 @@ header {
     color: white;
     letter-spacing: 3px;
     margin-left: 10px;
-    text-decoration: none;
 }
 
 .projects h3 {
@@ -103,3 +102,23 @@ header {
     justify-content: space-evenly;
 }
 
+.card a {
+    text-decoration: none;
+}
+
+/* contact & media icons */
+
+.contact {
+
+
+}
+
+#linkedin {
+    max-height: 20px;
+    max-height: 20px;
+}
+
+#email {
+    max-height: 20px;
+    max-height: 20px;
+}
