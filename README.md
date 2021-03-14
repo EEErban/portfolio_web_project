@@ -15,7 +15,7 @@ Key points was to show:
 
 ## Screenshot
 
-(assets/images/Screenshot/screemshot.1.png)
+(assets/images/Screenshot/screenshot.1.png)
 
 ## LINK
 
