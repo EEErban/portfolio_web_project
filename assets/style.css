@@ -82,10 +82,20 @@ header {
 
 /* projects styling */
 
-#projects {
+.projects {
     font-family: Helvetica, sans-serif ;
     font-size: 35px;
     color: white;
     letter-spacing: 3px;
     margin-left: 10px;
+}
+
+.projects h3 {
+    color: rgb(255, 138, 210);
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
