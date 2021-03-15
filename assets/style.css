@@ -125,3 +125,18 @@ header {
     max-height: 20px;
     max-height: 20px;
 }
+
+/*media queries */
+
+@media screen and (max-width: 768px) {
+    .card {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .card {
+        width: 25%;
+    }
+}
+
